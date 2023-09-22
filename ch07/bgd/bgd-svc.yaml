@@ -16,5 +16,5 @@ spec:
     app: bgd
   sessionAffinity: None
   type: LoadBalancer
-status:
-  loadBalancer: {}
+#status:
+  #loadBalancer: {}
